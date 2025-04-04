@@ -1,5 +1,4 @@
 # ataix-order-manager
-Here's a **README** template for your project on GitHub:
 
 ---
 
